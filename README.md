@@ -16,9 +16,6 @@
           <li>I started this journey 08/02/2023; hopefully I can find an apprenticeship by next year. Fingers crossed. </li>
         </h3></ul>
     </div>
-        <div id="Funny pic">
-          <img alt="Animated GIF" src="animated.gif" />
-        </div>
   </body>
 </html>
 
