@@ -1,4 +1,7 @@
 <html>  
+  <head>
+    <link rel="stylesheet" href="mystyle.css">
+  </head>
   <body>
     <div id="main">
       <h1>👋 Hi, I’m @RoddyCodes</h1>
