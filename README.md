@@ -1,25 +1,46 @@
-<html>  
-  <head>
-    <link rel="stylesheet" href="mystyle.css">
-  </head>
-  <body>
-    <div id="main">
-      <h1>👋 Hi, I’m @RoddyCodes</h1>
-      <h2> <ul>
-        <li>👀 I’m interested in learning how to become a software engineer from 0 experience.</li>
-        <li>🌱 I’m currently learning through CS50, Mimo, free coding programs and certifications online ie. freecodecamp, code academy, and through reddit.</li>
-        <li>💞️ I’m looking to collaborate on anything possible, looking to learn as much as I can</li>
-        <li>Please feel free to reach out to me for anything! I'm looking to learn as fast as possible and efficiently as possible. Tips and resources are appreciated!</li>
-        <li>📫 How to reach me, please email me @ Roddyscodingservice@gmail.com</li>
-      </h2> </ul>
-        <ul> <h3>
-          <li>I started this journey 08/02/2023; hopefully I can find an apprenticeship by next year. Fingers crossed. </li>
-        </h3></ul>
-    </div>
-  </body>
-</html>
+# Hi there, I’m RoddyCodes 👋
 
-<!---
-RoddyCodes/RoddyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Masters Student in Computer Science at NJIT  
+🧬 Bachelor’s in Biology from Rutgers University  
+💻 Full Stack Engineer  
+🤖 Passionate about Data, Machine Learning, and AI  
+🐍 Python Enthusiast, but I also know JavaScript
+
+---
+
+## 🌟 About Me
+
+- Always eager to learn something new—especially in the worlds of data, ML, and AI!
+- On a journey to build, break, and rebuild things that make life easier (and more fun).
+- When I’m not coding, you’ll find me enjoying anime, video games, snowboarding, playing basketball or football.
+
+---
+
+## 🚀 Portfolio
+
+Curious about my work, skills, and socials?  
+👉 **Check out my portfolio:** [roddycodes.github.io/Portfolio-Webpage](https://roddycodes.github.io/Portfolio-Webpage/)  
+_All my links—including LinkedIn—are there!_
+
+---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📫 Get in Touch
+
+For collaborations, opportunities, or just to chat, visit my  
+🌐 [Portfolio Website](https://roddycodes.github.io/Portfolio-Webpage/)
+
+---
+
+_Thanks for stopping by!_
