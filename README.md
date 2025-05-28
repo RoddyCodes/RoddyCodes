@@ -1,4 +1,4 @@
-# Hi there, I’m RoddyCodes 👋
+# Hi there, I’m Ryan Pham 👋
 
 🎓 Masters Student in Computer Science at NJIT  
 🧬 Bachelor’s in Biology from Rutgers University  
